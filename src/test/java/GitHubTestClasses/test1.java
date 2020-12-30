@@ -7,4 +7,8 @@ public class test1 {
     public void gitHubTest2(){
         System.out.println("my commit for branch 2 which i will marge with master on gitHub and pull to local master");
     }
+    //Checking the difference between master and other branch
+    public void masterMethod(){
+        System.out.println("master method");
+    }
 }
