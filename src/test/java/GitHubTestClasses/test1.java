@@ -18,7 +18,7 @@ public class test1 {
     public void gitHubTest3(){
         System.out.println("i commit this change to check fetch command");
     }
-    public void gitHubFetch1(){
+    public void gitHubFetch2(){
         System.out.println("i commit this change to check fetch command1");
     }
     public void branch4(){
