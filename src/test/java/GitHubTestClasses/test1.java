@@ -8,7 +8,7 @@ public class test1 {
         ts.gitHubFetch1();
         System.out.println("my first class commit to github from branch1");
         System.out.println("checking fatch for origin/master");
-        System.out.println("checking pull");
+        System.out.println("checking pull requiest");
     }
     public void gitHubTest2(){
         System.out.println("my commit for branch 2 which i will marge with master on gitHub and pull to local master");
