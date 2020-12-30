@@ -9,5 +9,6 @@ public class test2 {
     public void fetchMaster(){
         System.out.println("final pull and fetch to git local master");
         System.out.println("final commit for pull request");
+        System.out.println("final commit for update project");
     }
 }
