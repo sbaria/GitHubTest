@@ -13,4 +13,7 @@ public class test1 {
     public void gitHubTest3(){
         System.out.println("i commit this change to check fetch command");
     }
+    public void gitHubFetch1(){
+        System.out.println("i commit this change to check fetch command1");
+    }
 }
