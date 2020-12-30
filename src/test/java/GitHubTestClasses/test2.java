@@ -12,5 +12,6 @@ public class test2 {
         System.out.println("final commit for update project");
         System.out.println("final commit for update project by fetching");
         System.out.println("final commit for update project by fetching to branch");
+        System.out.println("final commit for update project by pull to branch");
     }
 }
