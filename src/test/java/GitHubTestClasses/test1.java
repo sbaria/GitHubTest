@@ -5,7 +5,9 @@ public class test1 {
         test1 ts=new test1();
         ts.gitHubTest2();
         ts.gitHubTest3();
-        ts.gitHubFetch1();
+        ts.gitHubFetch2();
+        ts.branch4();
+
         System.out.println("my first class commit to github from branch1");
         System.out.println("checking fatch for origin/master");
         System.out.println("checking pull requiest");
@@ -18,5 +20,8 @@ public class test1 {
     }
     public void gitHubFetch1(){
         System.out.println("i commit this change to check fetch command1");
+    }
+    public void branch4(){
+        System.out.println("final commit");
     }
 }
